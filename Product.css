@@ -1,0 +1,37 @@
+body{
+    background: url(./Images/Headu-Web.jpg);
+    background-size: cover;
+}
+.section-shoe{
+    width: 200px;
+    height: 200px;
+}
+.product{
+    background-color:aqua;
+    width: 250px;
+}
+.title{
+    background-color: aliceblue;
+    width: 100%;
+    text-align: center;
+    color: red;
+    font-size: 18px;
+}
+.img img{
+    width: 250px;
+    height: 200px;
+}
+.name{
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+.price{
+    color: red;
+    text-align: center;
+    font-size: 15px;
+}
+.btn-cart{
+    background-color: yellow;
+    margin-left: 80px;
+}
