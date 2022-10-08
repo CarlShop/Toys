@@ -20,7 +20,7 @@
             <div id="logo"><img src="./Images/Logo-toys.jpg"></div>
             <nav id="menu-top">
                 <ul class="level1">
-                    <li><a href="#">Home.php</a></li>
+                    <li><a href="index.php">Home.php</a></li>
                     <li><a href="Product.php">Product</a></li>
                     <li><a href="Login.php">Login</a></li>
                     <li><a href="Sign Up.php">Registration</a></li>
